@@ -19,9 +19,8 @@ it('divide(a, b) divides a by b and returns the result', function() {
 })
 
 inc = 5;
-function inc(n) {
-inc = 5; 
-return inc+= inc;
+function increment(n) {
+return inc += inc;
 }
 
 it('inc(n) increments n and returns the result', function() {
