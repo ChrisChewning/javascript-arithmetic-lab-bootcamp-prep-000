@@ -14,18 +14,10 @@ function divide(g,h) {
   return g / h; 
 }
 
-
-inc = 5;
-function increment(n) {
-return inc += inc;
-n += n;
-}
-
-var n = 0;
+var inc = 0;
 function increment(){
-
-  n++;
-  return n;
+  inc++;
+  return inc;
 }
 
 it('inc(n) increments n and returns the result', function() {
