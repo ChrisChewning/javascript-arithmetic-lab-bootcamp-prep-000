@@ -23,9 +23,7 @@ function dec(n) {
 }
 
 var n = 5;
-function inc(n) {
-  return n++;
-}
+n++;
 
 
 function makeInteger(n){
