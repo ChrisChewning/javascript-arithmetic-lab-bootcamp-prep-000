@@ -19,5 +19,5 @@ var inc = 5;
 inc++;
 
 function inc(n) {
-  return inc++;
+  return n++;
 }
