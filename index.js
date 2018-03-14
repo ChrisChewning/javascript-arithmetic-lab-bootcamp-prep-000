@@ -25,3 +25,7 @@ function dec(n) {
 function makeInteger(n){
   return parseInt(n)
 }
+
+function parseInt() {
+  return 
+}
