@@ -21,6 +21,13 @@ return inc += inc;
 n += n;
 }
 
+var n = 0;
+function increment(){
+
+  n++;
+  return n;
+}
+
 it('inc(n) increments n and returns the result', function() {
   expect(inc(a)).toEqual(a + 1)
 })
