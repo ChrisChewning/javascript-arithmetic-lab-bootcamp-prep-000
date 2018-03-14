@@ -23,7 +23,10 @@ function dec(n) {
 }
 
 var n = 5;
-n++;
+function inc(n) {
+  return n++;
+}
+
 
 function makeInteger(n){
   return parseInt(n)
