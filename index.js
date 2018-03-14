@@ -16,8 +16,8 @@ function divide(g,h) {
 
 var n = 0;
 function inc(n){
-  inc++;
-  return inc;
+  n++;
+  return n;
 }
 
 it('inc(n) increments n and returns the result', function() {
