@@ -14,22 +14,7 @@ function divide(g,h) {
   return g / h; 
 }
 
-function inc(n) {
-  return n++;
-}
-
-function dec(n) {
-  return n--;
-}
 
 var n = 5;
 n++;
 
-
-function makeInteger(n){
-  return parseInt(n)
-}
-
-function parseInt() {
-  return 
-}
