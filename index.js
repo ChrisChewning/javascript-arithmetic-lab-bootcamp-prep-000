@@ -19,8 +19,8 @@ it('divide(a, b) divides a by b and returns the result', function() {
 })
 
 function increment() {
-var number = 5; 
-return number++;
+var inc = 5; 
+return inc++;
 }
 
 it('inc(n) increments n and returns the result', function() {
