@@ -24,6 +24,7 @@ function dec(n) {
 
 var n = 5;
 n++;
+
 function makeInteger(n){
   return parseInt(n)
 }
