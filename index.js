@@ -14,8 +14,8 @@ function divide(g,h) {
   return g / h; 
 }
 
-var inc = 0;
-function increment(){
+var n = 0;
+function inc(n){
   inc++;
   return inc;
 }
