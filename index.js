@@ -20,6 +20,12 @@ function inc(n){
   return n;
 }
 
+var n = 0;
+function inc(n) {
+  n--;
+  return n;
+}
+
 it('inc(n) increments n and returns the result', function() {
   expect(inc(a)).toEqual(a + 1)
 })
