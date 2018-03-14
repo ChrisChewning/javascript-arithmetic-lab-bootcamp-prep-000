@@ -18,7 +18,7 @@ it('divide(a, b) divides a by b and returns the result', function() {
   expect(divide(a, b)).toEqual(a / b)
 })
 
-
+inc = 5;
 function inc(n) {
 inc = 5; 
 return inc+= inc;
