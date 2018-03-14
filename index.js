@@ -18,9 +18,10 @@ it('divide(a, b) divides a by b and returns the result', function() {
   expect(divide(a, b)).toEqual(a / b)
 })
 
-
-var number = 5; 
+function increment() {
+var number = 5 
 result number++;
+}
 
 it('inc(n) increments n and returns the result', function() {
   expect(inc(a)).toEqual(a + 1)
