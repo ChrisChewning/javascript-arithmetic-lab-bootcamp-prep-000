@@ -18,3 +18,5 @@ var number = 5;
 function inc() {
   number++;
 }
+
+n = 
