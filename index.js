@@ -14,3 +14,6 @@ function divide(g,h) {
   return g / h; 
 }
 
+function inc(n) {
+  return
+}
