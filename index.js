@@ -26,3 +26,7 @@ function dec(n){
   return n;
 }
 
+var n = 2; 
+function parseInt('2', 10){
+  
+}
