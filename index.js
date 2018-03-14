@@ -19,4 +19,4 @@ function inc() {
   number++;
 }
 
-n = 
+n = 1;
