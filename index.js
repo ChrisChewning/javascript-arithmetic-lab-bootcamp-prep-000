@@ -11,6 +11,6 @@ function multiply(e,f) {
 }
 
 function divide(g,h) {
-  return g / f; 
+  return g / h; 
 }
 
