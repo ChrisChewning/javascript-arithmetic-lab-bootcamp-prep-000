@@ -21,7 +21,11 @@ function inc(n){
 }
 
 
-
+var n = 1;
+function dec(n){
+  n--;
+  return n;
+}
 
 it('dec(n) decrements n and returns the result', function() {
   expect(dec(a)).toEqual(a - 1)
