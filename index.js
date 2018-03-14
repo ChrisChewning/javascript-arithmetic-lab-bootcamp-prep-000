@@ -14,10 +14,7 @@ function divide(g,h) {
   return g / h; 
 }
 
-
-var inc = 5;
-inc++;
-
+var number = 5;
 function inc(n) {
-  return n++;
+  number++;
 }
