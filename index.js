@@ -15,6 +15,6 @@ function divide(g,h) {
 }
 
 var number = 5;
-function inc(n) {
+function inc() {
   number++;
 }
