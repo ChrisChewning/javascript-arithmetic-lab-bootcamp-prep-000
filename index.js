@@ -26,7 +26,7 @@ function dec(n){
   return n;
 }
 
-var n = 2; 
-function parseInt('2', 10){
-  
+
+function Int('2', 10){
+  return n;
 }
